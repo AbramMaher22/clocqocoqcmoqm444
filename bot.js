@@ -4,7 +4,7 @@ const prefix = '.'
  
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Nothing`,"http://twitch.tv/S-F")
+client.user.setGame(`𝔽ℝ𝕀𝔼ℕ𝔻𝕊 ♥`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -22,7 +22,7 @@ client.user.setGame(`Nothing`,"http://twitch.tv/S-F")
   console.log('╚[════════════════════════════════════]╝')
   console.log('')
   console.log('╔[════════════]╗')
-  console.log(' Bot Is Online')
+  console.log(' Bot Is DND')
   console.log('╚[════════════]╝')
   console.log('')
   console.log('')
